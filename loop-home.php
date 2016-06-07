@@ -32,7 +32,6 @@
 				the_content( __( 'Continue Reading', 'epic' ) );
 			endif;
 		?>
-		<?php comments_popup_link('Brak komentarzy »', '1 Komentarz »', '% Komentarze »'); ?>
 	</section>
 <?php
 		endwhile;
