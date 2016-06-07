@@ -31,9 +31,6 @@
 		</footer>
 
 		<?php wp_footer(); ?>
-<?php
-// Adam Lukaszczyk: poniżej dodałem kod do integracji z Evenea 
-?>
-<script type="text/javascript" src="https://evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+		<script type="text/javascript" src="https://evenea.pl/js/iframe/new/iframeResizer2.js"></script>
 	</body>
 </html>
